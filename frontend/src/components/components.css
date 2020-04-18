@@ -1,0 +1,28 @@
+.nav {
+    width: 100%;
+}
+
+.home {
+    margin-left: 450px;
+}
+
+.library {
+    margin-left: 10px;
+}
+
+.favorites {
+    margin-left: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#search {
+    margin-left: 580px;
+}
+
+.select {
+    width: 150px;
+    margin-left: 250px;
+}
