@@ -14,4 +14,4 @@ Enter a search term to search for an item
 ![Screenshot](sc1.png)
 
 ### Link to deployed app:
-
+https://searchitunesapp.herokuapp.com/
