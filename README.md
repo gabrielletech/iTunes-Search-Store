@@ -10,8 +10,7 @@
 ### On the interface:
 Enter a search term to search for an item
 
-### To ensure the security of this app, Helmet is installed and implemented within the backend code:
-![Screenshot](sc1.png)
+### To ensure the security of this app, Helmet is installed and implemented within the backend code
 
 ### Link to deployed app:
 https://searchitunesapp.herokuapp.com/
